@@ -42,7 +42,7 @@ It is designed for learning **network programming**, **cryptography basics**, an
 
 ## 🔧 Requirements
 
-- Python 3.7+
+- Python 3.12+
 - `pycryptodome` for AES encryption
 
 Install dependencies:
