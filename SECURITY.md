@@ -14,7 +14,7 @@ We take security vulnerabilities seriously and appreciate responsible disclosure
 If you discover a security vulnerability, please follow these steps:
 
 Report Privately:
-Send a detailed report to our security email: security@example.com (replace with your real contact).
+Send a detailed report to our security email: mahangolam55@Gmail.com
 Include steps to reproduce, impact, and any suggested fixes if possible.
 
 Response Time:
